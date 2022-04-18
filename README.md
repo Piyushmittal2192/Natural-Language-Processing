@@ -12,5 +12,6 @@ e.g. we have tossed two coins 100 times. doing so we get discrete events - binom
 
 - if an observation is not in the training corpus then the MLE estimate P(w2|w1) will result 0.
 - 
-
+### Word2Vec
+- https://www.youtube.com/watch?v=hQwFeIupNP0
 
