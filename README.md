@@ -17,6 +17,7 @@ e.g. we have tossed two coins 100 times. doing so we get discrete events - binom
 
 ### Realtion extraction
  - https://nikhilsrihari-nik.medium.com/identifying-entities-and-their-relations-in-text-76efa8c18194
+ - https://github.com/NikhilSrihari/entities-and-relationsintext/tree/mediumblog1#inference
  - https://towardsdatascience.com/bert-s-for-relation-extraction-in-nlp-2c7c3ab487c4
  - https://github.com/plkmo/BERT-Relation-Extraction
 
