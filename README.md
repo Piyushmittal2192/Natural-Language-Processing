@@ -15,3 +15,8 @@ e.g. we have tossed two coins 100 times. doing so we get discrete events - binom
 ### Word2Vec
 - https://www.youtube.com/watch?v=hQwFeIupNP0
 
+### Realtion extraction
+ - https://nikhilsrihari-nik.medium.com/identifying-entities-and-their-relations-in-text-76efa8c18194
+ - https://towardsdatascience.com/bert-s-for-relation-extraction-in-nlp-2c7c3ab487c4
+ - https://github.com/plkmo/BERT-Relation-Extraction
+
